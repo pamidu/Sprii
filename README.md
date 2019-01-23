@@ -6,3 +6,6 @@ How To run
 #  docker build -t sprii . <br />
 2 step run docker image <br />
 #  docker run -it -p 80:80 sprii <br />
+3 step verification  <br />
+#  http://<serverid>:80/ <br />
+
